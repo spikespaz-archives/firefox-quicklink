@@ -40,6 +40,6 @@
         "browser_style": true
     },
     "web_accessible_resources": [
-        "data/conifg.json"
+        "data/config.json"
     ]
 }
